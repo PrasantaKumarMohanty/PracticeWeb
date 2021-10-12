@@ -2,4 +2,4 @@ a=12
 b=56
 c=a+b
 
-print("Sum Is ",c)
+print(" The Sum Is ",c)
